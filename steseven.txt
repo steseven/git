@@ -12,3 +12,5 @@ Git has a mutable index called stage.
 
 
 Creating a new branch is quick AND difficult.
+
+add sth at 2016-9-18 “09:26”
